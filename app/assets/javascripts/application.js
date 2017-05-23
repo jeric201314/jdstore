@@ -14,3 +14,15 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require bootstrap-sprockets
+//= require landingpage
+//= require jqBootstrapValidation
+
+/*===== 首頁導航列變化 =====*/
+$(window).scroll(function () {
+	var $navbar = $('#navbar')
+	if ($(this).scrollTop() > 125) {
+		$('#navbar').addClass('show_bgcolor')
+	} else {
+		$('#navbar').removeClass('show_bgcolor')
+	}
+})

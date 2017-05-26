@@ -21,3 +21,18 @@
 @import "navbar";
 @import "landingpage";
 @import "responsive";
+
+/*===== 分页按钮设定 ======*/
+.page-box {
+  margin-top: 75px;
+  text-align: center;
+
+a {
+  background-color: #eee;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: #666 !important;
+}
+}

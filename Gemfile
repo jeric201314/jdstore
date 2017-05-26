@@ -41,6 +41,7 @@ gem 'qiniu-rs'
 gem 'carrierwave-qiniu'
 gem 'figaro'
 gem 'will_paginate'
+gem 'will_paginate-bootstrap'
 
 gem 'letter_opener', group: :development
 

@@ -40,6 +40,7 @@ gem 'aasm'
 gem 'qiniu-rs'
 gem 'carrierwave-qiniu'
 gem 'figaro'
+gem 'will_paginate'
 
 gem 'letter_opener', group: :development
 

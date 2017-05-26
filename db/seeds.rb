@@ -35,61 +35,6 @@ Product.create!(title: "camera",
   image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
 )
 
-Product.create!(title: "glass",
-  description: "眼镜",
-  price: 2800,
-  quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/Jenny-Bakery.png")
-  )
-
-Product.create!(title: "camera",
-  description: "摄像机",
-  price: 5000,
-  quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
-  )
-
-Product.create!(title: "glass",
-  description: "眼镜",
-  price: 2800,
-  quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/Jenny-Bakery.png")
-  )
-
-Product.create!(title: "camera",
-  description: "摄像机",
-  price: 5000,
-  quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
-  )
-
-Product.create!(title: "glass",
-  description: "眼镜",
-  price: 2800,
-  quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/Jenny-Bakery.png")
-  )
-
-Product.create!(title: "camera",
-  description: "摄像机",
-  price: 5000,
-  quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
-  )
-
-Product.create!(title: "glass",
-  description: "眼镜",
-  price: 2800,
-  quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/Jenny-Bakery.png")
-  )
-
-Product.create!(title: "camera",
-  description: "摄像机",
-  price: 5000,
-  quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
-  )
 
 # Product.create!(title: "Cherry Keyboard",
 #   description: "G80-3000键盘",

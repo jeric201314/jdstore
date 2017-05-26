@@ -25,70 +25,70 @@ Product.create!(title: "glass",
   description: "眼镜",
   price: 2800,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/3d_glasses_movie_entertainment_cinema_video_film_theater_retro_tv_analog_watching_media_device_technology_watching_flat_design_icon-512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/Jenny-Bakery.png")
   )
 
 Product.create!(title: "camera",
   description: "摄像机",
   price: 5000,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/classica_movie-camera_flat-circle-white-on-black_512x512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
 )
 
 Product.create!(title: "glass",
   description: "眼镜",
   price: 2800,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/3d_glasses_movie_entertainment_cinema_video_film_theater_retro_tv_analog_watching_media_device_technology_watching_flat_design_icon-512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/Jenny-Bakery.png")
   )
 
 Product.create!(title: "camera",
   description: "摄像机",
   price: 5000,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/classica_movie-camera_flat-circle-white-on-black_512x512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
   )
 
 Product.create!(title: "glass",
   description: "眼镜",
   price: 2800,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/3d_glasses_movie_entertainment_cinema_video_film_theater_retro_tv_analog_watching_media_device_technology_watching_flat_design_icon-512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/Jenny-Bakery.png")
   )
 
 Product.create!(title: "camera",
   description: "摄像机",
   price: 5000,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/classica_movie-camera_flat-circle-white-on-black_512x512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
   )
 
 Product.create!(title: "glass",
   description: "眼镜",
   price: 2800,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/3d_glasses_movie_entertainment_cinema_video_film_theater_retro_tv_analog_watching_media_device_technology_watching_flat_design_icon-512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/Jenny-Bakery.png")
   )
 
 Product.create!(title: "camera",
   description: "摄像机",
   price: 5000,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/classica_movie-camera_flat-circle-white-on-black_512x512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
   )
 
 Product.create!(title: "glass",
   description: "眼镜",
   price: 2800,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/3d_glasses_movie_entertainment_cinema_video_film_theater_retro_tv_analog_watching_media_device_technology_watching_flat_design_icon-512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/Jenny-Bakery.png")
   )
 
 Product.create!(title: "camera",
   description: "摄像机",
   price: 5000,
   quantity: 5,
-  image: open("http://oq3bof327.bkt.clouddn.com/classica_movie-camera_flat-circle-white-on-black_512x512.png")
+  image: open("http://oq3bof327.bkt.clouddn.com/dangao.png")
   )
 
 # Product.create!(title: "Cherry Keyboard",

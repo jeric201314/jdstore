@@ -12,9 +12,11 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #fed136; }
+  color: #fec503;
+  }
   a:hover, a:focus, a:active, a.active {
     color: #fec503; }
+
 
 h2,
 h4,
@@ -25,9 +27,14 @@ h4,
   text-transform: uppercase;
 }
 
-h1,
-h3,
+h3 {
+    color: #000000;
+    font-weight: 700;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+}
 
+h1,
 h5,
 h6 {
   color: #FFFFFF;

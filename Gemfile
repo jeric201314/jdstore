@@ -42,6 +42,7 @@ gem 'carrierwave-qiniu'
 gem 'figaro'
 gem 'will_paginate'
 gem 'will_paginate-bootstrap'
+gem 'jquery-turbolinks'
 
 gem 'letter_opener', group: :development
 

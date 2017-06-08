@@ -36,3 +36,72 @@ a:hover {
   color: #666 !important;
 }
 }
+
+/*===== Cart 網站-購物車設定 =====*/
+.cart-item-box {
+
+  margin: 5px 0 5px 0;
+  color: #000000 !important;
+
+  img {
+    max-width: 75px;
+    padding: 0px;
+  }
+
+  div {
+    margin-left: 10px;
+    display: inline-block;
+    }
+
+  hr {
+    height: 1px;
+    background-color: #eee !important;
+    margin: 7.5px 0 -2.5px 0;
+  }
+
+  .name {
+    min-width: 30%;
+    color: #000000;
+  }
+
+  .price {
+    min-width: 50px;
+  }
+
+  .quantity {
+    max-width: 10px;
+  }
+}
+
+/*===== Product 產品 =====*/
+.product-box {
+  text-align: left;
+  padding: 0 0 100px 0;
+
+  .background-image {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  a {
+    color: #666 !important;
+  }
+
+  .btn {
+    background-color: #fff;
+    margin: 0 10px 0 10px;
+  }
+
+  .btn:hover,
+  .btn:focus {
+    color: #eb5424;
+  }
+
+  a:hover {
+    color: #eb5424 !important;
+
+    img {
+      opacity: 0.75;
+    }
+  }
+}
